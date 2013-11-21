@@ -1,0 +1,20 @@
+{
+  "name": "progressbar",
+  "description": "progress bar",
+  "version": "0.0.1",
+  "homepage": "https://github.com/airyland/seedit.ui.progressbar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/airyland/seedit.ui.progressbar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/airyland/seedit.ui.progressbar/issues"
+  },
+  "family": "seedit",
+  "spm": {
+    "alias": {},
+    "output": [
+      "progressbar.css"
+    ]
+  }
+}
