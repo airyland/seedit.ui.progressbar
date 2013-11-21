@@ -43,6 +43,20 @@
 ````
 
 
+### 无圆角
+
+````html
+<div class="progress progress-success progress-small no-radius">
+    <div data-percentage="0%" style="width: 45%;" class="bar"></div>
+</div>                                      
+                                                                            
+<div class="progress progress-danger no-radius">
+    <div data-percentage="0%" style="width: 45%;" class="bar"></div>
+</div> 
+````
+
+
+
 
 ### 动画
 ````html
